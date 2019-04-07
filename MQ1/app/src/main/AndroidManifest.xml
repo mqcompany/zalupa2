@@ -23,6 +23,7 @@
             android:theme="@style/Create" />
         <activity android:name=".MainLenta" />
         <activity android:name=".Login" />
+        <activity android:name=".ChangeSettingsProfile"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
