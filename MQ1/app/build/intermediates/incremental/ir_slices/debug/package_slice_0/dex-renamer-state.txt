@@ -1,0 +1,4 @@
+#Wed Mar 27 22:58:57 GMT+07:00 2019
+base.0=C\:\\Users\\butus\\AndroidStudioProjects\\NewRepository\\MQ1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
